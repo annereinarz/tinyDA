@@ -1,7 +1,7 @@
 class Link:
 
     """The Link class holds all relevant information about an MCMC sample, i.e.
-    parameters, prior log-desnity, model output, log-likelihood and possibly a
+    parameters, prior log-density, model output, log-likelihood and possibly a
     Quantity of Interest (QoI)
 
     Attributes
